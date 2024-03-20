@@ -10,4 +10,5 @@ x = 2.5
 
 b = fl.tinh_gia_tri(a , x ) 
 print(b)
+print('Truong xuan du ')
 
